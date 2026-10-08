@@ -140,12 +140,6 @@ images/
 └── automation/
 ```
 
-## 제출 전 확인 사항
-
-현재 GitHub 저장소 점검 기준으로 `images/automation/04_cron_auto_execution.png`가 확인되지 않습니다.
-
-최종 제출 전 **cron 등록 후 1분이 지나 `monitor.log`의 라인 수와 새로운 타임스탬프가 증가한 화면**을 해당 경로에 추가하고, `docs/필수_증거_체크리스트.md`의 미완료 항목을 `[x]`로 변경해야 합니다.
-
 ## Shell 리다이렉션과 로그 누적
 
 Shell에서 `>`와 `>>`는 파일 출력 방식이 다르다.
